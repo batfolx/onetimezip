@@ -2,7 +2,7 @@ efficient, O(1) runtime, one-way only file compression
 you need an input file to compress and the name of the output compressed file
 
 getting started:  
-contents of inputfile.txt  
+contents of `inputfile.txt`  
 
     hello, this is an uncompressed file with some text  
     
