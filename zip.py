@@ -7,7 +7,7 @@ def usage():
 
 
 def compress(input_file, output_file):
-    with open(output_file, 'w') as f:
+    with open(output_file, 'w+') as f:
         f.write('1')
 
     os.remove(input_file)
